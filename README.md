@@ -1,8 +1,11 @@
-## Title
+## String compression using the counts of repeated characters
 
-### Description
+### Input -> Output
+aaa --> a3
+aaabbaa --> a3b2a2
 
-Description details
+### Solution References
+https://js-algorithms.tutorialhorizon.com/2015/09/14/string-compression-using-the-counts-of-repeated-characters/
 
 
 
