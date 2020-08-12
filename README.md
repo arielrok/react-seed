@@ -2,7 +2,18 @@
 
 ### Description
 
-Description details
+#### Note: description
+
+### Input
+data
+
+### Expected Output
+data
+
+### Solution References
+link 1
+
+link 2
 
 
 
